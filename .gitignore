@@ -1,0 +1,4 @@
+.DS_Store
+.idea
+final_model_results.txt
+lightning_logs/

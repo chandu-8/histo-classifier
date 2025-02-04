@@ -1,0 +1,201 @@
+Trial 0 finished with value: 0.4946235418319702 and parameters: {'learning_rate': 2.434213899188384e-05, 'dropout_rate': 0.4702341537302057, 'leak_rate_bottleneck': 0.6697246448360449, 'leak_rate_residual': 0.7871123284999144, 'leak_rate': 0.018614625832368392}. Best is trial 0 with value: 0.4946235418319702.
+
+Trial 1 finished with value: 1.0714211463928223 and parameters: {'learning_rate': 0.009113077877186392, 'dropout_rate': 0.21801478181976064, 'leak_rate_bottleneck': 0.8038713543940283, 'leak_rate_residual': 0.8217343386914602, 'leak_rate': 0.788410162279131}. Best is trial 0 with value: 0.4946235418319702.
+
+Trial 2 finished with value: 0.49504002928733826 and parameters: {'learning_rate': 9.092574621446414e-07, 'dropout_rate': 0.03616301472623884, 'leak_rate_bottleneck': 0.21983858559766445, 'leak_rate_residual': 0.9013288325662898, 'leak_rate': 0.4895185998336463}. Best is trial 0 with value: 0.4946235418319702.
+
+Trial 3 finished with value: 1.031442642211914 and parameters: {'learning_rate': 1.2843324323699696e-06, 'dropout_rate': 0.6295881296876286, 'leak_rate_bottleneck': 0.9412879511460703, 'leak_rate_residual': 0.8487393350690012, 'leak_rate': 0.8467732675690256}. Best is trial 0 with value: 0.4946235418319702.
+
+Trial 4 finished with value: 0.5398359298706055 and parameters: {'learning_rate': 3.1049390603112463e-05, 'dropout_rate': 0.6406380047782706, 'leak_rate_bottleneck': 0.3792238811558297, 'leak_rate_residual': 0.05217508242191171, 'leak_rate': 0.6567536325289312}. Best is trial 0 with value: 0.4946235418319702.
+
+Trial 5 finished with value: 0.47788041830062866 and parameters: {'learning_rate': 4.481270652621948e-06, 'dropout_rate': 0.15444149011621222, 'leak_rate_bottleneck': 0.4471260685283339, 'leak_rate_residual': 0.8039512896331574, 'leak_rate': 0.44546073657728624}. Best is trial 5 with value: 0.47788041830062866.
+
+Trial 6 finished with value: 0.546635627746582 and parameters: {'learning_rate': 0.006131641913527843, 'dropout_rate': 0.5503098589371691, 'leak_rate_bottleneck': 0.6704480894912889, 'leak_rate_residual': 0.8606060223133948, 'leak_rate': 0.9399137593208556}. Best is trial 5 with value: 0.47788041830062866.
+
+Trial 7 finished with value: 0.46687066555023193 and parameters: {'learning_rate': 6.403124210743257e-05, 'dropout_rate': 0.3068588236536912, 'leak_rate_bottleneck': 0.816289800880301, 'leak_rate_residual': 0.1914785419102334, 'leak_rate': 0.1608082835812602}. Best is trial 7 with value: 0.46687066555023193.
+
+Trial 8 finished with value: 0.4178498089313507 and parameters: {'learning_rate': 0.0008860090775310111, 'dropout_rate': 0.315705627229926, 'leak_rate_bottleneck': 0.47495134255403226, 'leak_rate_residual': 0.26261928266006884, 'leak_rate': 0.12801386885673383}. Best is trial 8 with value: 0.4178498089313507.
+
+Trial 9 finished with value: 0.6799330115318298 and parameters: {'learning_rate': 2.410794474711147e-07, 'dropout_rate': 0.9186147649152515, 'leak_rate_bottleneck': 0.924014479019413, 'leak_rate_residual': 0.6338786078071761, 'leak_rate': 0.9378367286752426}. Best is trial 8 with value: 0.4178498089313507.
+
+Trial 10 finished with value: 0.6723780035972595 and parameters: {'learning_rate': 0.0005909044451113872, 'dropout_rate': 0.9997826649659843, 'leak_rate_bottleneck': 0.0064105785321083575, 'leak_rate_residual': 0.3451871262750847, 'leak_rate': 0.2557003771878781}. Best is trial 8 with value: 0.4178498089313507.
+
+Trial 11 finished with value: 0.4008787274360657 and parameters: {'learning_rate': 0.00034938663367772946, 'dropout_rate': 0.34616663853305973, 'leak_rate_bottleneck': 0.6082421198393431, 'leak_rate_residual': 0.23705594922490125, 'leak_rate': 0.007296002264779222}. Best is trial 11 with value: 0.4008787274360657.
+
+Trial 12 finished with value: 0.3946629464626312 and parameters: {'learning_rate': 0.0005254517573985753, 'dropout_rate': 0.37815715331702904, 'leak_rate_bottleneck': 0.5913426748026462, 'leak_rate_residual': 0.3988817627579405, 'leak_rate': 0.010867708702048291}. Best is trial 12 with value: 0.3946629464626312.
+
+Trial 13 finished with value: 0.4063531756401062 and parameters: {'learning_rate': 0.0003796556862344899, 'dropout_rate': 0.42723193900677486, 'leak_rate_bottleneck': 0.6029303688752202, 'leak_rate_residual': 0.4771387455522839, 'leak_rate': 0.3246510222770931}. Best is trial 12 with value: 0.3946629464626312.
+
+Trial 14 finished with value: 0.4250199794769287 and parameters: {'learning_rate': 0.00015296250637476677, 'dropout_rate': 0.3766732485616331, 'leak_rate_bottleneck': 0.3392793454261718, 'leak_rate_residual': 0.4850995492806168, 'leak_rate': 0.08156846688632005}. Best is trial 12 with value: 0.3946629464626312.
+
+Trial 15 finished with value: 0.4324777126312256 and parameters: {'learning_rate': 0.0017502777114645107, 'dropout_rate': 0.7925745686996839, 'leak_rate_bottleneck': 0.5770849232814772, 'leak_rate_residual': 0.10866230598620596, 'leak_rate': 0.2909167417318452}. Best is trial 12 with value: 0.3946629464626312.
+
+Trial 16 finished with value: 0.41094985604286194 and parameters: {'learning_rate': 0.00015525320245640884, 'dropout_rate': 0.1346962772887228, 'leak_rate_bottleneck': 0.7661970994689341, 'leak_rate_residual': 0.35080671907726085, 'leak_rate': 0.013127913262246984}. Best is trial 12 with value: 0.3946629464626312.
+
+Trial 17 finished with value: 0.42931726574897766 and parameters: {'learning_rate': 0.0021900068667293935, 'dropout_rate': 0.5589276769226088, 'leak_rate_bottleneck': 0.22928114505545083, 'leak_rate_residual': 0.6037984914823598, 'leak_rate': 0.6101502305903387}. Best is trial 12 with value: 0.3946629464626312.
+
+Trial 18 finished with value: 0.4398342967033386 and parameters: {'learning_rate': 1.049905244516802e-05, 'dropout_rate': 0.011744187368958103, 'leak_rate_bottleneck': 0.5820840816964673, 'leak_rate_residual': 0.37505443734394767, 'leak_rate': 0.19625583396925766}. Best is trial 12 with value: 0.3946629464626312.
+
+Trial 19 finished with value: 0.4243815243244171 and parameters: {'learning_rate': 0.0001271408969831984, 'dropout_rate': 0.259847995790621, 'leak_rate_bottleneck': 0.6756655439571232, 'leak_rate_residual': 0.18238081150975882, 'leak_rate': 0.37342596763910096}. Best is trial 12 with value: 0.3946629464626312.
+
+Trial 20 finished with value: 0.46192046999931335 and parameters: {'learning_rate': 0.0031049969972857714, 'dropout_rate': 0.399590639108526, 'leak_rate_bottleneck': 0.2815205973549004, 'leak_rate_residual': 0.6203121805007821, 'leak_rate': 0.20579093195339543}. Best is trial 12 with value: 0.3946629464626312.
+
+Trial 21 finished with value: 0.5213590264320374 and parameters: {'learning_rate': 0.00044901133784980957, 'dropout_rate': 0.4505065932752359, 'leak_rate_bottleneck': 0.5606707031990634, 'leak_rate_residual': 0.4792290240579894, 'leak_rate': 0.3248368593570912}. Best is trial 12 with value: 0.3946629464626312.
+
+Trial 22 finished with value: 0.40278634428977966 and parameters: {'learning_rate': 0.000260409184939652, 'dropout_rate': 0.3860185047061274, 'leak_rate_bottleneck': 0.7309533611187579, 'leak_rate_residual': 0.4305704465628972, 'leak_rate': 0.08323643428043444}. Best is trial 12 with value: 0.3946629464626312.
+
+Trial 23 finished with value: 0.3883902430534363 and parameters: {'learning_rate': 0.00024395837229446594, 'dropout_rate': 0.34027068697768814, 'leak_rate_bottleneck': 0.7491849501710743, 'leak_rate_residual': 0.24547989826229483, 'leak_rate': 0.08232239922177167}. Best is trial 23 with value: 0.3883902430534363.
+
+Trial 24 finished with value: 0.4142700433731079 and parameters: {'learning_rate': 6.317055651737178e-05, 'dropout_rate': 0.19773734355035066, 'leak_rate_bottleneck': 0.8281916397657626, 'leak_rate_residual': 0.24233572695636943, 'leak_rate': 0.015921090725372605}. Best is trial 23 with value: 0.3883902430534363.
+
+Trial 25 finished with value: 0.4341660737991333 and parameters: {'learning_rate': 0.001587015477495382, 'dropout_rate': 0.3118919365976193, 'leak_rate_bottleneck': 0.48339755396764383, 'leak_rate_residual': 0.28849192013624797, 'leak_rate': 0.11430725245865636}. Best is trial 23 with value: 0.3883902430534363.
+
+Trial 26 finished with value: 0.4070303440093994 and parameters: {'learning_rate': 7.334309347428265e-05, 'dropout_rate': 0.10021539842445332, 'leak_rate_bottleneck': 0.9054532845837413, 'leak_rate_residual': 0.008541028095043202, 'leak_rate': 0.00041626281395978904}. Best is trial 23 with value: 0.3883902430534363.
+
+Trial 27 finished with value: 0.5024206638336182 and parameters: {'learning_rate': 0.0007732552249618778, 'dropout_rate': 0.5274405944422116, 'leak_rate_bottleneck': 0.993636925648823, 'leak_rate_residual': 0.14804666310610193, 'leak_rate': 0.24037854934460612}. Best is trial 23 with value: 0.3883902430534363.
+
+Trial 28 finished with value: 0.8805378079414368 and parameters: {'learning_rate': 1.4911853186686673e-05, 'dropout_rate': 0.6908775743026123, 'leak_rate_bottleneck': 0.7190730007196875, 'leak_rate_residual': 0.3098437139828603, 'leak_rate': 0.08518827530528722}. Best is trial 23 with value: 0.3883902430534363.
+
+Trial 29 finished with value: 0.399016410112381 and parameters: {'learning_rate': 0.0002731824070172106, 'dropout_rate': 0.4834716205631734, 'leak_rate_bottleneck': 0.6043267765535293, 'leak_rate_residual': 0.5594069363305165, 'leak_rate': 0.07693161571908069}. Best is trial 23 with value: 0.3883902430534363.
+
+Trial 30 finished with value: 0.5875174403190613 and parameters: {'learning_rate': 5.0032746188001175e-06, 'dropout_rate': 0.48136596533438714, 'leak_rate_bottleneck': 0.5143552253092856, 'leak_rate_residual': 0.6978637029574288, 'leak_rate': 0.4156124694033455}. Best is trial 23 with value: 0.3883902430534363.
+
+Trial 31 finished with value: 0.4248616695404053 and parameters: {'learning_rate': 0.0002685637197516926, 'dropout_rate': 0.3554039858683199, 'leak_rate_bottleneck': 0.6545891558736076, 'leak_rate_residual': 0.5395017324069356, 'leak_rate': 0.06852167324770156}. Best is trial 23 with value: 0.3883902430534363.
+
+Trial 32 finished with value: 0.39593568444252014 and parameters: {'learning_rate': 0.0011841477441507833, 'dropout_rate': 0.2188828822880254, 'leak_rate_bottleneck': 0.6394016173466623, 'leak_rate_residual': 0.4033281325339222, 'leak_rate': 0.14409414526198244}. Best is trial 23 with value: 0.3883902430534363.
+
+Trial 33 finished with value: 0.4310515820980072 and parameters: {'learning_rate': 0.0061584091437943, 'dropout_rate': 0.2455762763376123, 'leak_rate_bottleneck': 0.8515027004551081, 'leak_rate_residual': 0.4088043865139951, 'leak_rate': 0.1882662639526658}. Best is trial 23 with value: 0.3883902430534363.
+
+Trial 34 finished with value: 0.42838671803474426 and parameters: {'learning_rate': 0.0008299809249385658, 'dropout_rate': 0.2575057938661339, 'leak_rate_bottleneck': 0.7600268129824643, 'leak_rate_residual': 0.5639737189929853, 'leak_rate': 0.1512753948354798}. Best is trial 23 with value: 0.3883902430534363.
+
+Trial 35 finished with value: 0.4364631474018097 and parameters: {'learning_rate': 0.0010593533693325132, 'dropout_rate': 0.4794287816288157, 'leak_rate_bottleneck': 0.39613653752214006, 'leak_rate_residual': 0.7220493929790905, 'leak_rate': 0.570316999516015}. Best is trial 23 with value: 0.3883902430534363.
+
+Trial 36 finished with value: 0.4917139708995819 and parameters: {'learning_rate': 0.0036593496575839427, 'dropout_rate': 0.1849217440605657, 'leak_rate_bottleneck': 0.6604991484356079, 'leak_rate_residual': 0.43047626803825084, 'leak_rate': 0.7481913378286782}. Best is trial 23 with value: 0.3883902430534363.
+
+Trial 37 finished with value: 0.4563937783241272 and parameters: {'learning_rate': 3.336604376709626e-05, 'dropout_rate': 0.08321914464829644, 'leak_rate_bottleneck': 0.5265463503628518, 'leak_rate_residual': 0.5370024764558484, 'leak_rate': 0.06490912793165562}. Best is trial 23 with value: 0.3883902430534363.
+
+Trial 38 finished with value: 0.4381941258907318 and parameters: {'learning_rate': 0.00856723035908631, 'dropout_rate': 0.6383253963573259, 'leak_rate_bottleneck': 0.4265266271903141, 'leak_rate_residual': 0.983349681071773, 'leak_rate': 0.24244861629130066}. Best is trial 23 with value: 0.3883902430534363.
+
+Trial 39 finished with value: 0.43559718132019043 and parameters: {'learning_rate': 0.00011963582967991985, 'dropout_rate': 0.5706229592635803, 'leak_rate_bottleneck': 0.7016293416118365, 'leak_rate_residual': 0.7031456304510465, 'leak_rate': 0.14075167590708043}. Best is trial 23 with value: 0.3883902430534363.
+
+Trial 40 finished with value: 0.5143327116966248 and parameters: {'learning_rate': 4.4257424687972086e-05, 'dropout_rate': 0.7162674997674555, 'leak_rate_bottleneck': 0.6180921629306927, 'leak_rate_residual': 0.3904753901696886, 'leak_rate': 0.47753970392951084}. Best is trial 23 with value: 0.3883902430534363.
+
+Trial 41 finished with value: 0.3940126299858093 and parameters: {'learning_rate': 0.00023679726723934997, 'dropout_rate': 0.33178948129273494, 'leak_rate_bottleneck': 0.622867478309846, 'leak_rate_residual': 0.2910620093298319, 'leak_rate': 0.046071335824763256}. Best is trial 23 with value: 0.3883902430534363.
+
+Trial 42 finished with value: 0.424111545085907 and parameters: {'learning_rate': 0.00026884720551604, 'dropout_rate': 0.2847456819072881, 'leak_rate_bottleneck': 0.5403792955248631, 'leak_rate_residual': 0.32466793733377336, 'leak_rate': 0.06263282653167579}. Best is trial 23 with value: 0.3883902430534363.
+
+Trial 43 finished with value: 0.4810466170310974 and parameters: {'learning_rate': 0.000192547607631999, 'dropout_rate': 0.41856882294313175, 'leak_rate_bottleneck': 0.777214675417588, 'leak_rate_residual': 0.20847983024128025, 'leak_rate': 0.13814392361716388}. Best is trial 23 with value: 0.3883902430534363.
+
+Trial 44 finished with value: 0.40648624300956726 and parameters: {'learning_rate': 9.111616428349291e-05, 'dropout_rate': 0.341304313710712, 'leak_rate_bottleneck': 0.634590714684789, 'leak_rate_residual': 0.12309374359757033, 'leak_rate': 0.04062760131797172}. Best is trial 23 with value: 0.3883902430534363.
+
+Trial 45 finished with value: 0.39901071786880493 and parameters: {'learning_rate': 0.00048032597770226716, 'dropout_rate': 0.21330901176088157, 'leak_rate_bottleneck': 0.8780364923613705, 'leak_rate_residual': 0.27989910206670654, 'leak_rate': 0.13001959160609025}. Best is trial 23 with value: 0.3883902430534363.
+
+Trial 46 finished with value: 0.4164617657661438 and parameters: {'learning_rate': 0.0005542725118570763, 'dropout_rate': 0.2096558691977124, 'leak_rate_bottleneck': 0.872570411815216, 'leak_rate_residual': 0.27666312677257415, 'leak_rate': 0.18080689232763797}. Best is trial 23 with value: 0.3883902430534363.
+
+Trial 47 finished with value: 0.4104204475879669 and parameters: {'learning_rate': 0.001103790473908884, 'dropout_rate': 0.1624035127502375, 'leak_rate_bottleneck': 0.9754262084913141, 'leak_rate_residual': 0.2250298485127439, 'leak_rate': 0.11118912078563054}. Best is trial 23 with value: 0.3883902430534363.
+
+Trial 48 finished with value: 0.4238111674785614 and parameters: {'learning_rate': 0.0029283536479388886, 'dropout_rate': 0.05147706713022665, 'leak_rate_bottleneck': 0.8904816939995197, 'leak_rate_residual': 0.34522649244796105, 'leak_rate': 0.28918921918937057}. Best is trial 23 with value: 0.3883902430534363.
+
+Trial 49 finished with value: 0.42438480257987976 and parameters: {'learning_rate': 0.0015216258792210158, 'dropout_rate': 0.23418589828332248, 'leak_rate_bottleneck': 0.10625290544843169, 'leak_rate_residual': 0.06394143722959925, 'leak_rate': 0.2281347710046788}. Best is trial 23 with value: 0.3883902430534363.
+
+Trial 50 finished with value: 0.4022858738899231 and parameters: {'learning_rate': 0.0005231760290619271, 'dropout_rate': 0.11991501888028208, 'leak_rate_bottleneck': 0.792608375710521, 'leak_rate_residual': 0.1780885337169335, 'leak_rate': 0.03577998677969363}. Best is trial 23 with value: 0.3883902430534363.
+
+Trial 51 finished with value: 0.40707018971443176 and parameters: {'learning_rate': 0.0003999074254623134, 'dropout_rate': 0.2960638615885368, 'leak_rate_bottleneck': 0.705199282449629, 'leak_rate_residual': 0.4455143699567766, 'leak_rate': 0.10687649245186767}. Best is trial 23 with value: 0.3883902430534363.
+
+Trial 52 finished with value: 0.7010583877563477 and parameters: {'learning_rate': 1.7222820382476317e-07, 'dropout_rate': 0.5092145619594064, 'leak_rate_bottleneck': 0.5942512127587161, 'leak_rate_residual': 0.2793982485139729, 'leak_rate': 0.16927654484183438}. Best is trial 23 with value: 0.3883902430534363.
+
+Trial 53 finished with value: 0.44610661268234253 and parameters: {'learning_rate': 0.000208681225505391, 'dropout_rate': 0.4376898235447184, 'leak_rate_bottleneck': 0.4556524461002234, 'leak_rate_residual': 0.3752183631445287, 'leak_rate': 0.03991590928006482}. Best is trial 23 with value: 0.3883902430534363.
+
+Trial 54 finished with value: 0.40324512124061584 and parameters: {'learning_rate': 0.0007127524901739836, 'dropout_rate': 0.332794894367336, 'leak_rate_bottleneck': 0.7469542578183468, 'leak_rate_residual': 0.3253327465846939, 'leak_rate': 0.11142534667368817}. Best is trial 23 with value: 0.3883902430534363.
+
+Trial 55 finished with value: 0.4215564429759979 and parameters: {'learning_rate': 0.0003277413690451748, 'dropout_rate': 0.2889269928556167, 'leak_rate_bottleneck': 0.8320146164663651, 'leak_rate_residual': 0.514856531034487, 'leak_rate': 0.000792004541021768}. Best is trial 23 with value: 0.3883902430534363.
+
+Trial 56 finished with value: 0.5207011699676514 and parameters: {'learning_rate': 5.318742380221815e-07, 'dropout_rate': 0.16129589712992065, 'leak_rate_bottleneck': 0.6849543107760924, 'leak_rate_residual': 0.4608613855736501, 'leak_rate': 0.29085807829332233}. Best is trial 23 with value: 0.3883902430534363.
+
+Trial 57 finished with value: 0.5210040211677551 and parameters: {'learning_rate': 0.00011341915042460304, 'dropout_rate': 0.5879579186568977, 'leak_rate_bottleneck': 0.632992867182942, 'leak_rate_residual': 0.24132859854320388, 'leak_rate': 0.15080384028198976}. Best is trial 23 with value: 0.3883902430534363.
+
+Trial 58 finished with value: 0.3964618146419525 and parameters: {'learning_rate': 0.0014290928496510826, 'dropout_rate': 0.37502831767286554, 'leak_rate_bottleneck': 0.5624892660415307, 'leak_rate_residual': 0.3892209019471152, 'leak_rate': 0.049679850748049585}. Best is trial 23 with value: 0.3883902430534363.
+
+Trial 59 finished with value: 0.5195661187171936 and parameters: {'learning_rate': 0.004267951959646319, 'dropout_rate': 0.381354914821601, 'leak_rate_bottleneck': 0.5490733142310565, 'leak_rate_residual': 0.4030989606884844, 'leak_rate': 0.8572361688839235}. Best is trial 23 with value: 0.3883902430534363.
+
+Trial 60 finished with value: 0.39838287234306335 and parameters: {'learning_rate': 0.001791652202608754, 'dropout_rate': 0.36801193787192105, 'leak_rate_bottleneck': 0.9428786392154895, 'leak_rate_residual': 0.30813520422907914, 'leak_rate': 0.04306335851450027}. Best is trial 23 with value: 0.3883902430534363.
+
+Trial 61 finished with value: 0.40141990780830383 and parameters: {'learning_rate': 0.0018109118303231936, 'dropout_rate': 0.3877422270432678, 'leak_rate_bottleneck': 0.915883962538716, 'leak_rate_residual': 0.3617470088966916, 'leak_rate': 0.042040581002382366}. Best is trial 23 with value: 0.3883902430534363.
+
+Trial 62 finished with value: 0.4182208478450775 and parameters: {'learning_rate': 0.0012078771453023485, 'dropout_rate': 0.3385433201544359, 'leak_rate_bottleneck': 0.9751491225443417, 'leak_rate_residual': 0.30696781037028814, 'leak_rate': 0.09387198535199752}. Best is trial 23 with value: 0.3883902430534363.
+
+Trial 63 finished with value: 0.4109455943107605 and parameters: {'learning_rate': 0.001993377255135358, 'dropout_rate': 0.26456060352503735, 'leak_rate_bottleneck': 0.9433082754313621, 'leak_rate_residual': 0.2593557278172267, 'leak_rate': 0.04673676495526305}. Best is trial 23 with value: 0.3883902430534363.
+
+Trial 64 finished with value: 0.6327133774757385 and parameters: {'learning_rate': 0.000595092005408889, 'dropout_rate': 0.21928865335254327, 'leak_rate_bottleneck': 0.573119955560375, 'leak_rate_residual': 0.16078165982553883, 'leak_rate': 0.13137615821706294}. Best is trial 23 with value: 0.3883902430534363.
+
+Trial 65 finished with value: 0.46468284726142883 and parameters: {'learning_rate': 0.005081832389324464, 'dropout_rate': 0.4121019133435505, 'leak_rate_bottleneck': 0.8170596081932382, 'leak_rate_residual': 0.41420163011974864, 'leak_rate': 0.008489386864638682}. Best is trial 23 with value: 0.3883902430534363.
+
+Trial 66 finished with value: 0.42636048793792725 and parameters: {'learning_rate': 0.002634653016256444, 'dropout_rate': 0.36047902266060944, 'leak_rate_bottleneck': 0.49173703788884726, 'leak_rate_residual': 0.3426830852116554, 'leak_rate': 0.21823146093023169}. Best is trial 23 with value: 0.3883902430534363.
+
+Trial 67 finished with value: 0.39764639735221863 and parameters: {'learning_rate': 0.0013303692601189477, 'dropout_rate': 0.45339748940192987, 'leak_rate_bottleneck': 0.8619891630196111, 'leak_rate_residual': 0.30339797783292843, 'leak_rate': 0.09222008822451828}. Best is trial 23 with value: 0.3883902430534363.
+
+Trial 68 finished with value: 0.41878557205200195 and parameters: {'learning_rate': 0.0012903590525405679, 'dropout_rate': 0.4517790295065681, 'leak_rate_bottleneck': 0.9434407951547626, 'leak_rate_residual': 0.20642748611300488, 'leak_rate': 0.08763448121078685}. Best is trial 23 with value: 0.3883902430534363.
+
+Trial 69 finished with value: 0.38899266719818115 and parameters: {'learning_rate': 0.0009140047871839398, 'dropout_rate': 0.4185542423294895, 'leak_rate_bottleneck': 0.7346137633240647, 'leak_rate_residual': 0.49415250021953944, 'leak_rate': 0.03228932515628573}. Best is trial 23 with value: 0.3883902430534363.
+
+Trial 70 finished with value: 0.42773059010505676 and parameters: {'learning_rate': 0.0008461846433629945, 'dropout_rate': 0.4490430777959807, 'leak_rate_bottleneck': 0.7377313035346594, 'leak_rate_residual': 0.47982165454878223, 'leak_rate': 0.5415769098421309}. Best is trial 23 with value: 0.3883902430534363.
+
+Trial 71 finished with value: 0.42437970638275146 and parameters: {'learning_rate': 0.0027771155973999448, 'dropout_rate': 0.529045856537621, 'leak_rate_bottleneck': 0.6608391154380975, 'leak_rate_residual': 0.367130507381229, 'leak_rate': 0.03156835676139904}. Best is trial 23 with value: 0.3883902430534363.
+
+Trial 72 finished with value: 0.4608588218688965 and parameters: {'learning_rate': 0.002114237741071763, 'dropout_rate': 0.31762552308964326, 'leak_rate_bottleneck': 0.8475153244159387, 'leak_rate_residual': 0.3049807018504999, 'leak_rate': 0.06576148224118239}. Best is trial 23 with value: 0.3883902430534363.
+
+Trial 73 finished with value: 0.5656974911689758 and parameters: {'learning_rate': 0.007163423308595265, 'dropout_rate': 0.39078595636022506, 'leak_rate_bottleneck': 0.7886256364015563, 'leak_rate_residual': 0.5107103510992502, 'leak_rate': 0.6818266424598454}. Best is trial 23 with value: 0.3883902430534363.
+
+Trial 74 finished with value: 0.40376436710357666 and parameters: {'learning_rate': 0.0009700382018449917, 'dropout_rate': 0.4202054771327636, 'leak_rate_bottleneck': 0.6871641754524171, 'leak_rate_residual': 0.4259573335057609, 'leak_rate': 0.00022388659436875513}. Best is trial 23 with value: 0.3883902430534363.
+
+Trial 75 finished with value: 0.4002934992313385 and parameters: {'learning_rate': 0.0006706337696948838, 'dropout_rate': 0.3696406629564872, 'leak_rate_bottleneck': 0.6432048362403011, 'leak_rate_residual': 0.45266169594850364, 'leak_rate': 0.1725482991316989}. Best is trial 23 with value: 0.3883902430534363.
+
+Trial 76 finished with value: 0.5845624208450317 and parameters: {'learning_rate': 0.00017603750365739718, 'dropout_rate': 0.46355294564450017, 'leak_rate_bottleneck': 0.5725061937501924, 'leak_rate_residual': 0.38631997785833105, 'leak_rate': 0.9934974839006698}. Best is trial 23 with value: 0.3883902430534363.
+
+Trial 77 finished with value: 0.4492153525352478 and parameters: {'learning_rate': 0.0013542881478718863, 'dropout_rate': 0.5030241304436367, 'leak_rate_bottleneck': 0.7124984418779725, 'leak_rate_residual': 0.5783092885208444, 'leak_rate': 0.05821660078038226}. Best is trial 23 with value: 0.3883902430534363.
+
+Trial 78 finished with value: 0.3838541805744171 and parameters: {'learning_rate': 0.0003979316594968697, 'dropout_rate': 0.3199795995394189, 'leak_rate_bottleneck': 0.6097616196812661, 'leak_rate_residual': 0.3222777259402005, 'leak_rate': 0.09920207956162555}. Best is trial 78 with value: 0.3838541805744171.
+
+Trial 79 finished with value: 0.4108637273311615 and parameters: {'learning_rate': 0.000421152402717044, 'dropout_rate': 0.27710382610783485, 'leak_rate_bottleneck': 0.5192509312792117, 'leak_rate_residual': 0.25275358431673056, 'leak_rate': 0.08787298544623744}. Best is trial 78 with value: 0.3838541805744171.
+
+Trial 80 finished with value: 0.4433760643005371 and parameters: {'learning_rate': 0.00031031815274996146, 'dropout_rate': 0.3170980159613812, 'leak_rate_bottleneck': 0.6297107321716501, 'leak_rate_residual': 0.33775467508317536, 'leak_rate': 0.20119958993560566}. Best is trial 78 with value: 0.3838541805744171.
+
+Trial 81 finished with value: 0.4007137417793274 and parameters: {'learning_rate': 0.0008504494934819973, 'dropout_rate': 0.3363672995068354, 'leak_rate_bottleneck': 0.5930098905948606, 'leak_rate_residual': 0.30484364819436904, 'leak_rate': 0.02205550840798616}. Best is trial 78 with value: 0.3838541805744171.
+
+Trial 82 finished with value: 0.44972333312034607 and parameters: {'learning_rate': 0.004035750990057746, 'dropout_rate': 0.36756868910970303, 'leak_rate_bottleneck': 0.5461166914122363, 'leak_rate_residual': 0.39436797210504676, 'leak_rate': 0.11470225093537584}. Best is trial 78 with value: 0.3838541805744171.
+
+Trial 83 finished with value: 0.5000596642494202 and parameters: {'learning_rate': 0.0015472903901364939, 'dropout_rate': 0.41162832079634804, 'leak_rate_bottleneck': 0.610781716306189, 'leak_rate_residual': 0.3603421984640758, 'leak_rate': 0.07227536106384566}. Best is trial 78 with value: 0.3838541805744171.
+
+Trial 84 finished with value: 1.7119795083999634 and parameters: {'learning_rate': 0.00021602042016273114, 'dropout_rate': 0.9161400048885292, 'leak_rate_bottleneck': 0.7687928457398747, 'leak_rate_residual': 0.2268306343046303, 'leak_rate': 0.15281266850580796}. Best is trial 78 with value: 0.3838541805744171.
+
+Trial 85 finished with value: 0.5242552757263184 and parameters: {'learning_rate': 2.2255834112334118e-06, 'dropout_rate': 0.2402074609112354, 'leak_rate_bottleneck': 0.6819062773090985, 'leak_rate_residual': 0.2924970891021899, 'leak_rate': 0.09867329547023057}. Best is trial 78 with value: 0.3838541805744171.
+
+Trial 86 finished with value: 0.3945099413394928 and parameters: {'learning_rate': 0.0004219208260549042, 'dropout_rate': 0.306381873661392, 'leak_rate_bottleneck': 0.7268117852567056, 'leak_rate_residual': 0.32550485896167597, 'leak_rate': 0.02395501849129844}. Best is trial 78 with value: 0.3838541805744171.
+
+Trial 87 finished with value: 0.41147586703300476 and parameters: {'learning_rate': 0.0003712590986355667, 'dropout_rate': 0.18003380345211872, 'leak_rate_bottleneck': 0.7256709433796357, 'leak_rate_residual': 0.497224979717774, 'leak_rate': 0.023622706141103463}. Best is trial 78 with value: 0.3838541805744171.
+
+Trial 88 finished with value: 0.5431391596794128 and parameters: {'learning_rate': 0.000525137239981233, 'dropout_rate': 0.30553288075989526, 'leak_rate_bottleneck': 0.659915449177261, 'leak_rate_residual': 0.4326787784282974, 'leak_rate': 0.3884344279379476}. Best is trial 78 with value: 0.3838541805744171.
+
+Trial 89 finished with value: 0.4145030379295349 and parameters: {'learning_rate': 7.27170031356745e-05, 'dropout_rate': 0.2731320441234836, 'leak_rate_bottleneck': 0.7430528433359145, 'leak_rate_residual': 0.4617200008336003, 'leak_rate': 0.061148135364422644}. Best is trial 78 with value: 0.3838541805744171.
+
+Trial 90 finished with value: 0.3946954309940338 and parameters: {'learning_rate': 0.0006644908780982714, 'dropout_rate': 0.3990764796855583, 'leak_rate_bottleneck': 0.507297225033216, 'leak_rate_residual': 0.26601049109339137, 'leak_rate': 0.25736327612922066}. Best is trial 78 with value: 0.3838541805744171.
+
+Trial 91 finished with value: 0.4183221161365509 and parameters: {'learning_rate': 0.0009603085222831066, 'dropout_rate': 0.4295024675823974, 'leak_rate_bottleneck': 0.5119572786572333, 'leak_rate_residual': 0.27635416693064874, 'leak_rate': 0.12214611780440382}. Best is trial 78 with value: 0.3838541805744171.
+
+Trial 92 finished with value: 0.47488757967948914 and parameters: {'learning_rate': 0.000154647613265541, 'dropout_rate': 0.47925569332209894, 'leak_rate_bottleneck': 0.4616390852645642, 'leak_rate_residual': 0.3296010216304345, 'leak_rate': 0.2681587060567099}. Best is trial 78 with value: 0.3838541805744171.
+
+Trial 93 finished with value: 0.4111993610858917 and parameters: {'learning_rate': 0.00023952269435790544, 'dropout_rate': 0.3439697973919406, 'leak_rate_bottleneck': 0.43573602352679475, 'leak_rate_residual': 0.19288479937322642, 'leak_rate': 0.08058374694326818}. Best is trial 78 with value: 0.3838541805744171.
+
+Trial 94 finished with value: 0.3760603070259094 and parameters: {'learning_rate': 0.0006948390709956019, 'dropout_rate': 0.3118702864631845, 'leak_rate_bottleneck': 0.5594111566700163, 'leak_rate_residual': 0.25558680795651695, 'leak_rate': 0.17264751935553224}. Best is trial 94 with value: 0.3760603070259094.
+
+Trial 95 finished with value: 0.4036194980144501 and parameters: {'learning_rate': 0.0007237140914072204, 'dropout_rate': 0.30261660693605524, 'leak_rate_bottleneck': 0.41424442384538596, 'leak_rate_residual': 0.2571350257700582, 'leak_rate': 0.18713001658741615}. Best is trial 94 with value: 0.3760603070259094.
+
+Trial 96 finished with value: 0.3950750529766083 and parameters: {'learning_rate': 0.00039561057912564687, 'dropout_rate': 0.24612649777065848, 'leak_rate_bottleneck': 0.56216709762575, 'leak_rate_residual': 0.12005418998786999, 'leak_rate': 0.1583025165627998}. Best is trial 94 with value: 0.3760603070259094.
+
+Trial 97 finished with value: 0.41574427485466003 and parameters: {'learning_rate': 5.0954347017136686e-05, 'dropout_rate': 0.2363279968235947, 'leak_rate_bottleneck': 0.489344732346437, 'leak_rate_residual': 0.0553399802352475, 'leak_rate': 0.16144309669049528}. Best is trial 94 with value: 0.3760603070259094.
+
+Trial 98 finished with value: 0.38622334599494934 and parameters: {'learning_rate': 0.00043634470995670765, 'dropout_rate': 0.25636921115773975, 'leak_rate_bottleneck': 0.5335914743715728, 'leak_rate_residual': 0.08545229234840296, 'leak_rate': 0.315231103904622}. Best is trial 94 with value: 0.3760603070259094.
+
+Trial 99 finished with value: 0.4253767132759094 and parameters: {'learning_rate': 0.00043363182367904426, 'dropout_rate': 0.31532106464894805, 'leak_rate_bottleneck': 0.3729558107939823, 'leak_rate_residual': 0.08938204863031439, 'leak_rate': 0.3285010571132382}. Best is trial 94 with value: 0.3760603070259094.
+
+
